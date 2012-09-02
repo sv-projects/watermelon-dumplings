@@ -30,46 +30,4 @@
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>AndroidManifest.xml</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/application/AndroidManifest.xml</locationURI>
-		</link>
-		<link>
-			<name>bin</name>
-			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/application/bin</locationURI>
-		</link>
-		<link>
-			<name>ic_launcher-web.png</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/application/ic_launcher-web.png</locationURI>
-		</link>
-		<link>
-			<name>libs</name>
-			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/application/libs</locationURI>
-		</link>
-		<link>
-			<name>proguard-project.txt</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/application/proguard-project.txt</locationURI>
-		</link>
-		<link>
-			<name>project.properties</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/application/project.properties</locationURI>
-		</link>
-		<link>
-			<name>res</name>
-			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/application/res</locationURI>
-		</link>
-		<link>
-			<name>src</name>
-			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/application/src</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>
